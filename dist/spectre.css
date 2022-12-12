@@ -2138,6 +2138,12 @@ summary.accordion-header::-webkit-details-marker {
   width: 3.2rem;
 }
 
+.avatar.avatar-xxl {
+  font-size: 4.8rem;
+  height: 9.6rem;
+  width: 9.6rem;
+}
+
 .avatar img {
   border-radius: 50%;
   height: 100%;

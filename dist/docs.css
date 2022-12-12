@@ -92,7 +92,7 @@
 }
 
 .docs-content .anchor {
-  color: #6362dc;
+  color: #0078c295;
   display: none;
   margin-left: .2rem;
   padding: 0 .2rem;
@@ -909,7 +909,7 @@
   border: none;
   border-radius: 3px;
   color: #222;
-  font-family: Menlo, Monaco, Consolas, Courier New, monospace; 
+  font-family:Multiround Pro,  Menlo, Monaco, Consolas, Courier New, monospace; 
   font-size: 90%;
   padding: 1px 5px;
 }
